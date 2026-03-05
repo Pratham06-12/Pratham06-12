@@ -119,7 +119,7 @@ analyst = {
         <img src="https://raw.githubusercontent.com/Pratham06-12/Ecommerce-Sales-Revenue-Analysis/main/images/dashboard_preview.png" width="100%" alt="E-commerce Dashboard"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
 
 
 
@@ -133,9 +133,6 @@ analyst = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham06-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=450" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham06-12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" height="180" alt="Top Languages"/>
 
 </div>
 
