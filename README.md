@@ -122,7 +122,8 @@ analyst = {
     <td align="center" width="50%">
       <b>💳 Credit Risk Analysis Dashboard</b><br/><br/>
       <a href="https://github.com/Pratham06-12/Credit-Risk-Analysis">
-        <img src="https://raw.githubusercontent.com/Pratham06-12/Credit-Risk-Analysis/main/images/dashboard_preview.png" width="100%" alt="Credit Risk Dashboard"/>
+       
+![Overview Dashboard](Images/Credit_Loan_Report_Overview.png)
       </a>
     </td>
   </tr>
