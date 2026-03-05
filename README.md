@@ -119,8 +119,17 @@ analyst = {
         <img src="https://raw.githubusercontent.com/Pratham06-12/Ecommerce-Sales-Revenue-Analysis/main/images/dashboard_preview.png" width="100%" alt="E-commerce Dashboard"/>
       </a>
     </td>
-    <td align="center" width="100%">
 
+    <td align="center" width="50%">
+      <b>💳 Credit Risk Analysis Dashboard</b><br/><br/>
+      <a href="https://github.com/Pratham06-12/Credit-Risk-Analysis">
+        <img src="https://raw.githubusercontent.com/Pratham06-12/Credit-Risk-Analysis/main/Images/Credit_Loan_Report_Overview.png" width="100%" alt="Credit Risk Dashboard"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ---
