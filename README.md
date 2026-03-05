@@ -138,7 +138,6 @@ analyst = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pratham06-12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak Stats" width="700"/>
 
 </div>
 
