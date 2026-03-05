@@ -121,9 +121,8 @@ analyst = {
     </td>
     <td align="center" width="50%">
       <b>💳 Credit Risk Analysis Dashboard</b><br/><br/>
-      <a href="https://github.com/Pratham06-12/Credit-Risk-Analysis">
-       
-![Overview Dashboard](Images/Credit_Loan_Report_Overview.png)
+      <a href="https://github.com/Pratham06-12/Credit-Risk-Analysis">       
+[![Overview Dashboard](Images/Credit_Loan_Report_Overview.png)](https://raw.githubusercontent.com/Pratham06-12/Credit-Risk-Analysis/main/Images/Credit_Loan_Report_Overview.png)
       </a>
     </td>
   </tr>
