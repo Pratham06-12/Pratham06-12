@@ -4,7 +4,6 @@
 <!--                     ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Pratham&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Business%20Intelligence&descSize=18&descAlignY=62&descColor=ffffff" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/Pratham06-12">
