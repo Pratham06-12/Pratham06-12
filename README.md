@@ -7,7 +7,6 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/Pratham06-12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C9EF7&center=true&vCenter=true&multiline=false&width=600&lines=📊+Data+Analyst+%7C+BI+Developer;🔍+Turning+Raw+Data+into+Insights;📈+Power+BI+%7C+SQL+%7C+Python+%7C+Excel;🎯+Entry-Level+%7C+Ready+to+Contribute!" alt="Typing SVG" />
 </a>
 
 <br/>
